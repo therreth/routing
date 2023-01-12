@@ -9,7 +9,11 @@ function MainNavigation() {
         <ul>
           <li>
             <Link to="/">Home</Link>
+          </li>
+          <li>
             <Link to="/new-meetup">Create New meetup</Link>
+          </li>
+          <li>
             <Link to="/favorites">Favorites</Link>
           </li>
         </ul>
